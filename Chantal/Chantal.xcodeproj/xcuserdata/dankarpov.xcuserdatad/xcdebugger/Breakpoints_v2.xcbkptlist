@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55DAEEB8-D1F1-4A5F-8FCC-F3A88CF8A8B2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABDF11CA-71CE-4C99-8A2A-9344FEC40428"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChantalUITests/ChantalUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "testFinishTask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABDF11CA-71CE-4C99-8A2A-9344FEC40428 - 5e45dcda6600816"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChantalUITests.ChantalUITests.testFinishTask() throws -&gt; ()"
+                  moduleName = "ChantalUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dankarpov/Desktop/todo-list/Chantal/ChantalUITests/ChantalUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "ABDF11CA-71CE-4C99-8A2A-9344FEC40428 - 5e45dcda66037fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChantalUITests.ChantalUITests.testFinishTask() throws -&gt; ()"
+                  moduleName = "ChantalUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dankarpov/Desktop/todo-list/Chantal/ChantalUITests/ChantalUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "671D6B22-CF08-4D78-868A-C3E7B4476D75"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChantalUITests/ChantalUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "testDeleteFinishedTask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "671D6B22-CF08-4D78-868A-C3E7B4476D75 - 3958608e20052151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChantalUITests.ChantalUITests.testDeleteFinishedTask() throws -&gt; ()"
+                  moduleName = "ChantalUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dankarpov/Desktop/todo-list/Chantal/ChantalUITests/ChantalUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+               <Location
+                  uuid = "671D6B22-CF08-4D78-868A-C3E7B4476D75 - 3958608e20052151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChantalUITests.ChantalUITests.testDeleteFinishedTask() throws -&gt; ()"
+                  moduleName = "ChantalUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dankarpov/Desktop/todo-list/Chantal/ChantalUITests/ChantalUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
